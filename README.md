@@ -19,3 +19,25 @@ TimeMaps Video Bookmarker is a browser extension that enhances your video watchi
 ## Installation
 
 1. **Clone the Repository:**
+   
+
+2. **Load the Extension in Chrome:**
+- Open Google Chrome.
+- Go to `chrome://extensions/` in your address bar.
+- Enable "Developer mode" using the toggle switch.
+- Click on "Load unpacked" and select the `extension` folder from the repository.
+
+## Usage
+
+1. Open a video in your browser.
+2. Click the TimeMaps Video Bookmarker extension icon.
+3. Add a timestamp at the current video playback time.
+4. Give the bookmark a title and optionally assign it to a category.
+5. Save the bookmark.
+6. Access your saved bookmarks in the extension's popup.
+
+
+
+Enjoy seamless video navigation with TimeMaps Video Bookmarker! 🚀📺
+
+
